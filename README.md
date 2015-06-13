@@ -1,7 +1,7 @@
 dotali
 ======
 
-my dot files ..
+my dot files ...
 
 To install ( I do not recommend it )
 
