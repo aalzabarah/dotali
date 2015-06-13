@@ -3,7 +3,7 @@ dotali
 
 my dot files ...
 
-To install ( I do not recommend it )
+to install ( I do not recommend it )
 
 `curl -O https://raw.github.com/aalzabarah/dotali/master/scripts/install_dotali.zsh`
 
