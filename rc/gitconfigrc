@@ -35,7 +35,7 @@
     autosquash = true
 
 [github]
-    user = alal3177
+    user = aalzabarah
  
 [push]
     default = simple
