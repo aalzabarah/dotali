@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 BACKUP_DIR=$HOME/dotali_backup
-FILES_ARRAY=(zshrc vimrc screenrc)
+FILES_ARRAY=(zshrc vimrc screenrc gitconfig)
 GIT_PATH=`which git 2>/dev/null`
 
 # if git is not installed, abort
